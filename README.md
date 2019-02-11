@@ -1,3 +1,5 @@
+# It has been moved [`scrapbox-converter` mono-repo](https://github.com/pastak/scrapbox-converter/tree/master/packages/html2sb) and this repo is archived.
+
 # html2sb
 
 Encode HTML to Scrapbox.io style text
